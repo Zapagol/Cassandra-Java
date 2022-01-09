@@ -2,7 +2,7 @@
 
 This project is an guide to use Apache Cassandra using Java.
 
-##Maven Dependencies
+## Maven Dependencies
 
 -  Core Layer
 ```
